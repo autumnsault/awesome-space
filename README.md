@@ -205,7 +205,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Delta V calculator for LEO/MEO/GEO injection](http://www.satsig.net/orbit-research/delta-v-geo-injection-calculator.htm)
 * [Flight Club](https://www2.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
-* [FreeFlyer](https://ai-solutions.com/freeflyer/) - A software application for space mission design, analysis, and operations.
+* [FreeFlyer](https://ai-solutions.com/freeflyer/) - A software application for space mission design, analysis, and operations (paid).
 * [GMAT](https://sourceforge.net/projects/gmat/) - The General Mission Analysis Tool (GMAT) is a space trajectory optimization and mission analysis system (NASA)
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
 * [nyx](https://gitlab.com/chrisrabotin/nyx) - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination written in Rust, [validated against GMAT](https://gitlab.com/chrisrabotin/nyx/blob/master/VALIDATION.md).
