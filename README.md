@@ -192,7 +192,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [FoxTelem](https://www.g0kla.com/foxtelem/) - FoxTelem is used by a network of ground stations to retrieve the telemetry and experiment data from the Fox Satellites.
 * [Open Satellite Project](https://limemicro.com/community/open-satellite-project/) - Ongoing effort to develop open-source software for the receipt and decoding of satellite data using software-defined radio (SDR) hardware
-* [Phase 4 Ground](https://github.com/phase4ground) - Open source digital broadband satellite and terrestrial radio systems, part of Open Research Institute
+* [Phase 4 Ground](http://phase4radio.org) - Open source digital broadband satellite and terrestrial radio systems, part of Open Research Institute
 * [SatNOGS](https://satnogs.org/) - A global network of satellite ground stations, designed as an open source participatory project
 
 ### Mission Control
@@ -245,6 +245,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [LFR transceiver](http://lfradio.space/) - Little Free Radio (LFR) is an open source, command, telemetry, and data radio for cubesats.
 * OpenLST transceiver [hardware](https://github.com/OpenLST/openlst-hw) and [firmware](https://github.com/OpenLST/openlst) - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.
+* [Phase 4](http://phase4radio.org) - Amateur radio satellites to go in geosynchronoous orbit
 
 #### Star Trackers
 
